@@ -39,10 +39,10 @@
 2. Enter the following into the console (one line at a time)
 
 ```console
-git clone https://github.com/kevinmmendez/MetabViz
-cd MetabViz
+git clone https://github.com/cimcb/MetabProjectionViz
+cd MetabProjectionViz
 conda env create -f environment.yml
-conda activate MetabViz
+conda activate MetabProjectionViz
 jupyter notebook
 ```
 
