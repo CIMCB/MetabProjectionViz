@@ -4,7 +4,7 @@
 
 <br/>
 
-<p align="justify">This repository contains the supplementary information for the journal article, "Functional Equivalence ...". There are two types of workflows included in this repository: a standardised visualisation and interrogation partial least squares (PLS) regression workflow, and an equivalent artificial neural network workflow.</p>
+<p align="justify">This repository contains the supplementary information for the journal article, "Migrating from Partial Least Squares Discriminant Analysis to Artificial Neural Networks: A Comparison of Functionally Equivalent Feature Importance and Visualisation Tools using Jupyter Notebooks.". There are two types of workflows included in this repository: a standardised visualisation and interrogation partial least squares (PLS) regression workflow, and an equivalent artificial neural network workflow.</p>
 
 <p align="justify">Two previously published datasets are used as examples of the standardised PLS workflow and the proposed equivalent ANN workflow. The first, by <a href="https://www.nature.com/articles/bjc2015414">Chan et al. (2016)</a> is a urine NMR dataset comprised of 149 named metabolites, publicly available on Metabolomics Workbench (Study ID: <a href="http://dx.doi.org/DOI:10.21228/M8B10B">ST0001047</a>). Two classes were used: gastric cancer (n=43) vs. healthy controls (n=40). The second, by <a href="https://doi.org/10.1371/journal.pgen.1004801">Ganna et al. (2014)</a> and <a href="https://doi.org/10.1101/002782">Ganna et al. (2015)</a> is a plasma LC-MS with 189 named metabolites, publicly available on Metabolights (Study ID: <a href="https://www.ebi.ac.uk/metabolights/MTBLS90">MTBLS90</a>). Samples were split into two classes by sex: males (n=485) and females (n=483).</p>
 
