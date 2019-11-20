@@ -15,10 +15,10 @@
 <br/>
 
 ### *To open notebooks as static HTML files:* 
--  [PLSDA_ST001047.html (Method: PLS-DA; Dataset: ST001047)](https://cimcb.github.io/MetabProjectionViz/static/PLSDA_ST001047.html) 
--  [ANNSigSig_ST001047.html (Method: ANN-SS; Dataset: ST001047)](https://cimcb.github.io/MetabProjectionViz/static/ANNSigSig_ST001047.html) 
--  [PLSDA_MTBLS90.html (Method: PLS-DA; Dataset: MTBLS90)](https://cimcb.github.io/MetabProjectionViz/static/PLSDA_MTBLS90.html) 
--  [ANNSigSig_MTBLS90.html (Method: ANN-SS; Dataset: MTBLS90)](https://cimcb.github.io/MetabProjectionViz/static/ANNSigSig_MTBLS90.html)
+-  [PLSDA_ST001047.html (Method: PLS-DA; Dataset: ST001047)](https://cimcb.github.io/MetabProjectionViz/html/PLSDA_ST001047.html) 
+-  [ANNSigSig_ST001047.html (Method: ANN-SS; Dataset: ST001047)](https://cimcb.github.io/MetabProjectionViz/html/ANNSigSig_ST001047.html) 
+-  [PLSDA_MTBLS90.html (Method: PLS-DA; Dataset: MTBLS90)](https://cimcb.github.io/MetabProjectionViz/html/PLSDA_MTBLS90.html) 
+-  [ANNSigSig_MTBLS90.html (Method: ANN-SS; Dataset: MTBLS90)](https://cimcb.github.io/MetabProjectionViz/html/ANNSigSig_MTBLS90.html)
 
 <br/>
 
