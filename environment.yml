@@ -11,4 +11,4 @@ dependencies:
   - pandas=0.24.2
   - openpyxl=2.6.1
   - theano=1.0.4
-  - cimcb=2.0.43
+  - cimcb=2.1.0
