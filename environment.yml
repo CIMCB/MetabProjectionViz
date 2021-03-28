@@ -13,3 +13,4 @@ dependencies:
   - theano=1.0.4
   - cimcb=2.1.0
   - xlrd=1.2.0
+  - keras=2.2.4
